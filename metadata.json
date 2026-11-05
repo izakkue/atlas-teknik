@@ -1,0 +1,6 @@
+{
+  "name": "Engineering Atlas",
+  "description": "Platform pembelajaran interaktif dan ruang kerja riset untuk Teknik Elektro, Sistem Kontrol, Dinamika Sistem, dan Kecerdasan Buatan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
